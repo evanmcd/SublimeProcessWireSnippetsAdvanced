@@ -10,7 +10,7 @@ If you're using Git, the best method is to clone this repository to your ST Pack
 
 You can also [download the zip file](https://github.com/evanmcd/SublimeProcessWireSnippetsAdvanced/archive/master.zip) and unzip into the Packages folder.
 
-Either way, I would recommend creating a ProcessWire subfolder as there are large number of files.
+Either way, I would recommend creating a ProcessWire subfolder as there are more than 200 files.
 
 I'm looking into getting it into the excellent [Package Control](https://github.com/wbond/sublime_package_control) which would let you install right from ST.
 

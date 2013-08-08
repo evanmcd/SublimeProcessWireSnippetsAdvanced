@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-pages->clone(\$${1:page},\$${2:parent});
+pages->getById(\$${1:ids},\$${2:template},\$${3:parent});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>pages->clone()</tabTrigger>
+	<tabTrigger>pages->getById()</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 </snippet>

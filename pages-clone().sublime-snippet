@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-pages->clone(${1:\$page});
+pages->clone(\$${1:page});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>pages->clone()</tabTrigger>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+roles->delete(\$${1:role});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>roles-delete()</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

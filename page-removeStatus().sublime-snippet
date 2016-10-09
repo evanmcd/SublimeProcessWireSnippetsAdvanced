@@ -3,7 +3,7 @@
 ${1:page}->removeStatus(${2:status});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>page->removeStatus()</tabTrigger>
+	<tabTrigger>page-removeStatus()</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 </snippet>

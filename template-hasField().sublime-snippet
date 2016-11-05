@@ -3,7 +3,7 @@
 template->hasField(${1:string|num|Field});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>template->hasField()</tabTrigger>
+	<tabTrigger>template-hasField()</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 </snippet>

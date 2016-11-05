@@ -3,7 +3,7 @@
 ${1:page}->createdUser;
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>page->createdUser</tabTrigger>
+	<tabTrigger>page-createdUser</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 </snippet>

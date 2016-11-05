@@ -3,7 +3,7 @@
 ${1:page}->prevAll("${2:selector}",\$${3:siblings});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>page->prevAll()</tabTrigger>
+	<tabTrigger>page-prevAll()</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 </snippet>
